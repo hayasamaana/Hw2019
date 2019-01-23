@@ -16,6 +16,7 @@ public class Node {
 	  }
 	  
 	public double getCoef() {
+		int z=9;
 		return coef;
 	}
 	public void setCoef(double coef) {
